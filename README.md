@@ -76,22 +76,22 @@ login foi feito ou não.
 12. O protótipo do programa deve apresentar um menu a permitir as seguintes 
 funcionalidades:
 
-a. Incluir um novo aluno;
+   a. Incluir um novo aluno;
 
-b. Incluir um novo funcionário;
+   b. Incluir um novo funcionário;
 
-c. Incluir uma nova turma;
+   c. Incluir uma nova turma;
 
-d. Emitir relatório de um aluno escolhido pelo usuário;
+   d. Emitir relatório de um aluno escolhido pelo usuário;
 
-e. Emitir relatório de um funcionário escolhido pelo usuário;
+   e. Emitir relatório de um funcionário escolhido pelo usuário;
 
-f. Listar todos os funcionários pelo nome;
+   f. Listar todos os funcionários pelo nome;
 
-g. Mostrar o total de gastos com funcionários;
+   g. Mostrar o total de gastos com funcionários;
 
-h. Listar todas as turmas por sigla e nome;
+   h. Listar todas as turmas por sigla e nome;
 
-i. Mudar um aluno de turma;
+   i. Mudar um aluno de turma;
 
-j. Sair do sistema.
+   j. Sair do sistema.
