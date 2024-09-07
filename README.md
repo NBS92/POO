@@ -4,7 +4,7 @@
 - Disciplina: Orientação ao Objetos
 - Professor: Me. Jonas Pontes 
 
-# ⚠️ Segunda avaliação da Nota 2
+# ⚠️ Segunda Avaliação da Nota 2
 Você e seu time foram desafiados a construir um sistema computacional, seguindo o 
 paradigma da orientação a objetos. O time deve pensar em um problema e a implementação 
 proposta deve solucioná-lo. Faça o levantamento dos requisitos funcionais do sistema, os 
