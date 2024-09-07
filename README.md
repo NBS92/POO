@@ -1,8 +1,8 @@
  
 # 🎓 Curso Superior de Tecnologia em Sistemas para Internet 
-- **Período:** 3º
 - **Disciplina:** Orientação ao Objetos
-- **Professor:** Me. Jonas Pontes 
+- **Professor:** Me. Jonas Pontes
+- **Período:** 3º
 
 # ⚠️ Segunda Avaliação da Nota 2
 Você e seu time foram desafiados a construir um sistema computacional, seguindo o 
