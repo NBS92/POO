@@ -1,6 +1,5 @@
  
-# Curso Superior de Tecnologia em Sistemas para Internet
-# 
+# Curso Superior de Tecnologia em Sistemas para Internet 
 - Terceiro Período
 - Disciplina: Orientação ao Objetos
 - Professor: Me. Jonas Pontes 
