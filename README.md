@@ -75,13 +75,23 @@ login foi feito ou não.
 11. Funcionario não pode ser concreta. Utilize classe abstrata ou interface para isso.
 12. O protótipo do programa deve apresentar um menu a permitir as seguintes 
 funcionalidades:
+
 a. Incluir um novo aluno;
+
 b. Incluir um novo funcionário;
+
 c. Incluir uma nova turma;
+
 d. Emitir relatório de um aluno escolhido pelo usuário;
+
 e. Emitir relatório de um funcionário escolhido pelo usuário;
+
 f. Listar todos os funcionários pelo nome;
+
 g. Mostrar o total de gastos com funcionários;
+
 h. Listar todas as turmas por sigla e nome;
+
 i. Mudar um aluno de turma;
+
 j. Sair do sistema.
