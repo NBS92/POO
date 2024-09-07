@@ -76,7 +76,7 @@ login foi feito ou não.
 12. O protótipo do programa deve apresentar um menu a permitir as seguintes 
 funcionalidades:
 
-## a. Incluir um novo aluno;
+         a. Incluir um novo aluno;
 
 - b. Incluir um novo funcionário;
 
