@@ -1,6 +1,6 @@
  
 # 🎓 Curso Superior de Tecnologia em Sistemas para Internet 
-- **Período:** 3º Período
+- **Período:** 3º
 - **Disciplina:** Orientação ao Objetos
 - **Professor:** Me. Jonas Pontes 
 
