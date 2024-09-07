@@ -25,10 +25,12 @@ Entregáveis:
 2. Documentação detalhada do problema e do sistema associada, incluindo os seus
 requisitos. Essa documentação deve ser preferencialmente o arquivo readme.md do 
 GitHub.
-Exemplo de um problema:
+
+# Exemplo de um problema:
 Você e seu time foram desafiados a desenvolverem um protótipo funcional de um sistema
 acadêmico. Esse ambiente abrange objetos do tipo aluno, funcionário, curso e turma. A 
 descrição do ambiente e de suas tarefas estão definidas como segue:
+
 1. Modele uma classe chamada Aluno para definir os objetos que representam os alunos 
 da instituição. Essa classe deve declarar três atributos: o primeiro para o nome, o 
 segundo para a matrícula e o terceiro para a data de nascimento dos alunos; todos 
