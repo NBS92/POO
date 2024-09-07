@@ -1,10 +1,10 @@
  
-# Curso Superior de Tecnologia em Sistemas para Internet 
+# 🎓 Curso Superior de Tecnologia em Sistemas para Internet 
 - Terceiro Período
 - Disciplina: Orientação ao Objetos
 - Professor: Me. Jonas Pontes 
 
-# Segunda avaliação da Nota 2
+# ⚠️ Segunda avaliação da Nota 2
 Você e seu time foram desafiados a construir um sistema computacional, seguindo o 
 paradigma da orientação a objetos. O time deve pensar em um problema e a implementação 
 proposta deve solucioná-lo. Faça o levantamento dos requisitos funcionais do sistema, os 
@@ -25,7 +25,7 @@ Entregáveis:
 requisitos. Essa documentação deve ser preferencialmente o arquivo readme.md do 
 GitHub.
 
-# Exemplo de um problema:
+# 🔎 Exemplo de um problema:
 Você e seu time foram desafiados a desenvolverem um protótipo funcional de um sistema
 acadêmico. Esse ambiente abrange objetos do tipo aluno, funcionário, curso e turma. A 
 descrição do ambiente e de suas tarefas estão definidas como segue:
