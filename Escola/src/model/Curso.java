@@ -1,3 +1,10 @@
+/*
+5) Há vários cursos na instituição. Modele Curso, o qual contém atributos privados para representar:
+    - O nome do curso;
+    - A sigla;
+    - A modalidade de ensino (graduação ou ensino técnico). 
+Todos os atributos são obrigatórios e modificáveis.
+*/
 package model;
 
 public class Curso {
